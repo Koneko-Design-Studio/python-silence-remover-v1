@@ -5,4 +5,4 @@ if wav_samples == None:
     print("ERREUR: Aucun sample à la lecture du fichier wav")
     exit(0)
 
-    print (turlututu)
+  
